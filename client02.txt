@@ -1,0 +1,4 @@
+lock k1 1
+lock k1 2
+lock k2 1
+lock k1 2
